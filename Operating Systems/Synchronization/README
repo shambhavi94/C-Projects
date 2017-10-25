@@ -1,0 +1,25 @@
+Shambhavi Srivastava
+CSCI 3753-Summer 2017
+PA3
+
+Navigate to the directory containing the multi-lookup program
+
+Folders:
+
+input: names*.txt (contains all the input files to run the program)
+
+Build:
+
+$ make
+ 
+Clean:
+
+$ make clean
+
+Run Program:
+
+$ ./multi-lookup input/names*.txt input/names*.txt input/names*.txt results.txt
+
+The first three arguments are the THREE file names to run the program with, you can select any three from the ones located in the 'input' directory.
+Replace the '*' in 'input/names*.txt' with the actual number contained in the file name. 
+the final argument is the output file, you can name this whatever you would like. The program will right your results to this file. 
