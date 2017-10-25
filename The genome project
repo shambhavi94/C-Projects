@@ -1,2 +1,0 @@
-This project includes calculating the similarity of two sequences using Hamming distance between two strings. The first part inclues comparing two sequences to each other. The second part includes
-  counting the matches of a sequence to a genome, and the third part includes finding the best matcing genmore for a given sequence.
