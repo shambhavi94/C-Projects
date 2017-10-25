@@ -1,0 +1,17 @@
+Jun 18 18:35:14 cu-cs-vm uptimed: moving up to position 22: 0 days, 01:50:09
+Jun 18 18:45:14 cu-cs-vm uptimed: moving up to position 21: 0 days, 02:00:09
+Jun 18 18:55:14 cu-cs-vm uptimed: moving up to position 19: 0 days, 02:10:09
+Jun 18 19:05:14 cu-cs-vm uptimed: moving up to position 16: 0 days, 02:20:09
+Jun 18 19:15:14 cu-cs-vm uptimed: moving up to position 13: 0 days, 02:30:09
+Jun 18 19:17:01 cu-cs-vm CRON[3039]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 18 19:25:14 cu-cs-vm uptimed: moving up to position 12: 0 days, 02:40:09
+Jun 18 19:45:14 cu-cs-vm uptimed: moving up to position 10: 0 days, 03:00:09
+Jun 18 19:55:14 cu-cs-vm uptimed: moving up to position 9: 0 days, 03:10:09
+Jun 18 20:17:01 cu-cs-vm CRON[3253]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 18 22:54:28 cu-cs-vm blueman-mechanism: loading Network
+Jun 18 22:54:28 cu-cs-vm blueman-mechanism: loading Ppp
+Jun 18 22:54:28 cu-cs-vm blueman-mechanism: loading RfKill
+Jun 18 22:54:28 cu-cs-vm blueman-mechanism: loading Rfcomm
+Jun 18 22:54:51 cu-cs-vm kernel: [   57.381966] The numbers to be added are  1 and 10 
+Jun 18 22:54:51 cu-cs-vm kernel: [   57.381970] the answer is = 11
+Jun 18 22:54:58 cu-cs-vm blueman-mechanism: Exiting

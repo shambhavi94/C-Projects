@@ -1,0 +1,25 @@
+Name- Shambhavi Srivastava
+Email- shsr6011@colorado.edu
+
+Simple_add.c includes the definition of System call, I defined for my test program.
+	- This file will be in /home/kernel/linux-4.4.0/arch/x86/kernel
+
+MakeFile includes build functionality about our kernel call. It has Simple_add.o in it.
+	- This file will be in /home/kernel/linux-4.4.0/arch/x86/kernel
+
+syscall_64.tbl includes the referencing the system call in the system table. check index 1123 to see the system call.
+	- This file will be in /home/kernel/linux-4.4.0/arch/x86/entry/syscalls
+
+syscalls.h is the header file for system call.
+	- This file will be in /home/kernel/linux-4.4.0/include/linux
+
+syslog file gives you the log of the program that runs in kernel space.
+	- This file will be in /var/log
+
+Test_add.c in the test file. 
+
+Running the program- 
+
+1) use gcc -o example Test_add.c 
+2) ./example (running this command will give you the output of addition of two numbers added in the terminal)
+3) To see the output printk use- sudo tail /var/log/syslog or dmesg.
