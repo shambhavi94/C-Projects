@@ -1,1 +1,1 @@
-# The following repository includes mainly all the C++ projects I have worked on.
+# The following repository includes mainly all the C/C++ projects I have worked on.
