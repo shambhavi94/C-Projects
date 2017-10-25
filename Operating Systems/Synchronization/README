@@ -1,6 +1,4 @@
-Shambhavi Srivastava
-CSCI 3753-Summer 2017
-PA3
+I worked on this project in order to learn how to code a linux kernel module, and write a module that will enable me to install a linux device driver, i.e. creating a device file and testig the driver code.
 
 Navigate to the directory containing the multi-lookup program
 
