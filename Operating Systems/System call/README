@@ -1,6 +1,7 @@
 Name- Shambhavi Srivastava
 Email- shsr6011@colorado.edu
 
+In this assingment, I learned how to compile and install a modern linux kernel, as well as how to add a custom system call.
 Simple_add.c includes the definition of System call, I defined for my test program.
 	- This file will be in /home/kernel/linux-4.4.0/arch/x86/kernel
 
